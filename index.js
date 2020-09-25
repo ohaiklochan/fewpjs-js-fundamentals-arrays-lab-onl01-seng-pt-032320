@@ -1,1 +1,1 @@
-const append = ["Odie"]
+const append = ["Milo", "Otis", "Garfield"];
