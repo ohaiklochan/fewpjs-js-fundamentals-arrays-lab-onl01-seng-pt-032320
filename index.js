@@ -1,2 +1,4 @@
 const append = ["Milo", "Otis", "Garfield"];
-append.push ("Odie")
+append.push("Odie");
+
+const prepend = 
